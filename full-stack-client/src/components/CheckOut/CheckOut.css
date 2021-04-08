@@ -1,0 +1,22 @@
+.orderDetail ul li{
+    /* display: flex; */
+    margin-right: 20px;
+    /* border-right: 1px solid lightgrey; */
+    padding: 20px;
+}
+.totalDiv p{
+    margin-left: 500px;
+}
+.totalDiv{
+    display: flex;
+    border-top: 1px solid lightgrey;
+}
+button{
+    margin-left: 50px;
+}
+
+.reviewBtn{
+    margin-left:500px;
+}
+
+
